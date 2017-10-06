@@ -1,0 +1,11 @@
+User-agent: Yandex
+Disallow: /forum/
+Host: yoris-salon.ru
+
+User-agent: Googlebot
+Disallow: /forum/
+
+User-agent: *
+Disallow: /forum/
+
+Sitemap: http://yoris-salon.ru/sitemap.xml
